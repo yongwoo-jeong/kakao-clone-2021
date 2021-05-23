@@ -22,9 +22,9 @@
 }
 .nav_elipsis_notification {
   background-color: tomato;
-  width: 9px;
-  height: 9px;
-  border-radius: 15px;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
   position: absolute;
   left: 32px;
   bottom: 30px;
